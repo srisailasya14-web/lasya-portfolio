@@ -15,7 +15,7 @@ export default defineConfig({
   },
   preview: {
     allowedHosts:
-    ['http://lasya-portfolio-1.onrender.com/'],
+    ['http://lasya-portfolio-2.onrender.com/'],
   },
 });
 
