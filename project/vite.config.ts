@@ -13,4 +13,9 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  preview: {
+    allowedHosts:
+    ['http://lasya-portfolio-1.onrender.com/'],
+  },
 });
+
